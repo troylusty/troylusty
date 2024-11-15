@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=troylusty&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=troylusty&theme=dark&hide_border=true&background=FF000000)](https://git.io/streak-stats)
